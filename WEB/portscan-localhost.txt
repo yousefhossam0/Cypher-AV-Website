@@ -1,0 +1,10 @@
+> Port Scanner
+==============
+Target:	localhost
+IP Address:	127.0.0.1
+Scanning ports...
+Port 135 	[open]
+Port 445 	[open]
+Port 902 	[open]
+Port 912 	[open]
+Scan completed. 4 open ports found.
